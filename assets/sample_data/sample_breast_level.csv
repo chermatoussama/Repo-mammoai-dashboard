@@ -1,0 +1,11 @@
+study_id,image_id,breast_density,view_position,label
+study_0001,image_0001,DENSITY A,CC,0
+study_0002,image_0002,DENSITY B,CC,0
+study_0003,image_0003,DENSITY B,MLO,1
+study_0004,image_0004,DENSITY C,CC,0
+study_0005,image_0005,DENSITY C,MLO,1
+study_0006,image_0006,DENSITY D,MLO,1
+study_0007,image_0007,DENSITY A,CC,0
+study_0008,image_0008,DENSITY C,MLO,1
+study_0009,image_0009,DENSITY B,CC,0
+study_0010,image_0010,DENSITY D,MLO,0

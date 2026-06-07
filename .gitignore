@@ -1,0 +1,42 @@
+# ── Secrets (NEVER commit these) ──────────────────────────
+.env
+*.env
+
+# ── Python cache ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+
+# ── Virtual environments ───────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Streamlit local config ─────────────────────────────────
+.streamlit/secrets.toml
+
+# ── OS files ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs & temp ────────────────────────────────────────────
+*.log
+streamlit.log
+out.txt
+out2.txt
+out3.txt
+
+# ── IDE ────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Build artifacts ────────────────────────────────────────
+dist/
+build/
+*.egg-info/
